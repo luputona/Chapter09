@@ -4,7 +4,7 @@ int num;
 
 void Add3(int val);
 
-void main()
+void main9()
 {
 	printf("num : %d \n", num);
 	Add3(3);
